@@ -1,6 +1,3 @@
-# Rooportable
-Fully Portable Roop: One-Click Deepfake Software
-
 # Description
 This project is a portable adaptation of [Roop](https://github.com/s0md3v/roop), a software that enables you to create a deepfake from a single image. My primary goal is to simplify the software's installation process. This project offers a fully portable solution for installing and using Roop, ensuring its accessibility and convenience from any location.
 
